@@ -1,0 +1,4 @@
+```
+# No packages require explicit version constraints.
+# difflib is part of the Python standard library.
+```
